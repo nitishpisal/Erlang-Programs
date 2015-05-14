@@ -1,0 +1,14 @@
+2> cd("F:/Erlang_Progs/")
+2> .
+F:/Erlang_Progs
+ok
+3> c(assign1).           
+{ok,assign1}
+4> assign1:circle(5).
+78.5
+5> assign1:square(10).
+100
+6> assign1:triangle(15,20).
+150.0
+7> assign1:rectangle(15,20).
+70
